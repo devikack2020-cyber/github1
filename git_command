@@ -1,0 +1,15 @@
+git init initializes a new git repository
+touch command creates a new text file
+git add . : adds all the file
+git commit -m "commit message" :commits the changes done
+git push origin main :pushes the changes maid to remote repository
+git checkout -b <branchname> :it is used to switch the branch
+git stash apply: it is used to add the files in staging area which is temporary"
+git show <commitid> :it is used check the author and changes done
+git log -n 5 : it shows the last 5 commited message
+git revert <commitId>
+it reverts the previously commited changes
+
+
+
+
